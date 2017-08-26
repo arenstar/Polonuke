@@ -8,7 +8,6 @@ The script below will attempt to sell everything with a balance on your account 
 ```text
 git clone https://github.com/Crypto-AI/Polonuke
 cd Polonuke
-pip install -r requirements.txt
 ```
 
 ```python
