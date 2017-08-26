@@ -9,7 +9,7 @@ class Connection:
     def __init__(self, key="", secret="", timeout=30):
         self.key     = key
         self.secret  = secret
-        self.nonce   = 1503688733019678+int(time.time())-1503677725
+        self.nonce   = int(time.time()*1000000)
         self.timeout = timeout
 
     def __call__(self, command, args={}):
