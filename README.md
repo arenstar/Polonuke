@@ -1,4 +1,4 @@
-<img src="https://github.com/Crypto-AI/Polonuke/blob/master/bomb.png" width="100px">
+<p align="center"><img src="https://github.com/Crypto-AI/Polonuke/blob/master/bomb.png" width="100px"></p>
 
 ```text
 git clone https://github.com/Crypto-AI/Polonuke
