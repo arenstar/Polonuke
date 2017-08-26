@@ -3,6 +3,7 @@
 <i>
 The script below will attempt to sell everything with a balance on your account on the BTC market. It will leave ETH and GAME untouched as they are listed as exceptions. To sell the rest of the coins, for each one, it will cancel any open orders and then sell at 5% below the last price to simulate a market sell. This essentially tells Poloniex, sell immediately at the next best price but if the volatility causes the price to wick down 5%, cancel any open orders but don't sell.
 </i>
+<br>
 
 ```text
 git clone https://github.com/Crypto-AI/Polonuke
