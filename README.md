@@ -1,7 +1,5 @@
 <img src="https://github.com/Crypto-AI/Polonuke/blob/master/bomb.png" width="100px">
 
-### Nuke your alts before BTC destroys your portfolio</b>
-
 ```text
 git clone https://github.com/Crypto-AI/Polonuke
 cd Polonuke
