@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Crypto-AI/Polonuke/blob/master/bomb.png" width="100px">
 
 ### Nuke your alts before BTC destroys your portfolio</b>
